@@ -1,0 +1,17 @@
+accelerate
+bitsandbytes
+datasets
+deepspeed
+einops
+isort
+jsonlines
+loralib
+optimum
+packaging
+peft
+torchmetrics
+tqdm
+transformers
+transformers_stream_generator
+wandb
+wheel
